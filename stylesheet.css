@@ -1,0 +1,323 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: whitesmoke;
+}
+
+nav{
+    width: 100%;
+    overflow: auto;
+    background: limegreen;
+    padding: 10px 0px;
+    
+}
+
+.header-ul {
+    padding: 0%;
+    margin: 0 0 0 250px;
+    list-style-type: none;
+    float: right;
+    padding-right: 25px;
+    
+}
+
+
+.header-list{
+     float: left; 
+     
+}
+
+.header-list-href {
+    /* width: 100px;*/
+    display: block;
+    padding: 15px 10px;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+    text-transform: capitalize;
+}
+
+li a:hover{
+    background: whitesmoke;
+    text-transform: capitalize;
+    text-decoration: none;
+    
+}
+
+.logo img{
+    position: absolute;
+    margin-left: 30px;
+    
+}
+.logo img {
+    height: 52px;
+    width: 191px;
+    /* padding: 3px; */
+}
+
+.menus{
+    text-transform: uppercase;
+}
+.card{
+    margin-top: 60px;
+}
+.carousel-inner img {
+    width: 88%;
+    height: 80%;
+  }
+  .carousel-inner p{
+    margin-left: 50px;
+  }
+  .carousel-item p{
+    margin-left: 50px;
+  }
+
+  p.option{
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    font-size: 40px;
+
+  }
+
+   h4.card-title{
+    color: darkblue;
+    font-size: 25px;
+  }
+  h3.card-title{
+    color: red;
+  }
+  p.body-text{
+    font-size: 14px;
+  }
+  .product-icon{
+    size: 10px;
+  }
+
+  img.product-icon{
+    height: 135px;
+    width: 135px;
+  }
+
+  .row{
+    padding-left: 32px;
+  }
+
+ .container-card h2{
+    color: darkblue;
+    text-align: center;
+    margin-top: 60px;
+    
+    
+  }
+
+  .product-icon{
+    width: 98px;
+    height: 98px;
+  }
+  ul.carousel-indiccators {
+    display: none;
+}
+
+.container-footer{
+    background-color: darkblue;
+    padding-top: 29px;
+    margin-top: 60px;
+    padding-bottom: 29px;
+    
+}
+.container-footer p{
+    color: white;
+}
+
+.container-footer h3{
+    color: white;
+    font-size: 30px;
+
+}
+
+
+
+.footer-list{
+    color: limegreen;
+    list-style-type: none;
+    
+}
+.footer-list-href{
+    color: white;
+    font-size: 14px;
+}
+
+
+
+body{
+    overflow-x: hidden;
+}
+
+.copyright p{
+    background-color: green;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0px;
+}
+
+
+
+/*aboutus*/
+
+.span-about{
+  position: absolute;
+    top: 50%;
+    color: #fff;
+    font-size: 40px;
+    nav-right: 30px;
+    margin-left: 60px;
+}
+
+.page-span{
+  position: absolute;
+  top: 60%;
+  color: white;
+  font-size: 20px;
+  list-style: none;
+  margin-left: 60px;
+}
+
+h3.span-card-title {
+
+  color: darkblue;
+}
+
+h5.span-card-title{
+  color: darkblue;
+  margin-top: 48px;
+}
+
+.span-body-text{
+  font-size: 15px;
+}
+
+.span-pic-title{
+  color: darkblue;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.span-pic-text{
+  text-align: right;
+}
+
+.span-pic-text-small{
+  text-align: center;
+}
+
+img.span-icon{
+  height: 110px;
+  width: 110px;
+  float: left;
+}
+.about-icon{
+  font-size: 35px;
+}
+
+.container-light {
+  width: 100%;
+  text-align: center;
+}
+
+.content{
+  margin-top: 35px;
+}
+
+
+
+
+
+
+/*contactus*/
+.about-design img {
+  width: 100%;
+}
+.card-us{
+  margin-top: 50px;
+}
+
+h3.title1{
+  color: blue;
+}
+h3.title{
+    color: green;
+}
+
+.icon{
+  color:green;
+  font-size: 35px;
+}
+
+.card-form{
+  width: 500px;
+  background-color: smokewhite;
+  box-sizing: 20px ;
+  top: 50%;
+  left: 50%; 
+}
+
+form{
+  margin: 35px;
+}
+
+.input-field{
+  width: 400px;
+  height: 50px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+  color: green;
+}
+
+.textarea-field{
+  height: 150px;
+  padding-top: 10px;
+}
+
+.btn-tip{
+  width: 400px;
+  height: 50px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 2px;
+  color: white !important;
+  margin-top: 18px;
+  padding: 10px;
+  background-color: #47c35a;
+  font-size: 12px;
+  border: green;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+h3.heading{
+  color: darkblue;
+  margin-left: 34px;
+  font-size: 17px;
+}
+
+h3.same{
+  color: darkblue;
+  font-size: 15px;
+}
+
+.card-text{
+  color: green;
+}
+
+
+
+
+
+
